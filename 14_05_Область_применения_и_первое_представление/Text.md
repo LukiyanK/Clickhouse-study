@@ -8,6 +8,13 @@
   - [Сайт компании](https://cloudflare.com)
   - [Статья компании о использовании clickhouse для анализа логов](https://blog.cloudflare.com/log-analytics-using-clickhouse)
 
-- Kozhindev
+- Kozhindev:
   - [Сайт компании](https://kozhindev.com)
   - [Статья компании о использовании clickhouse](https://tproger.ru/articles/clickhouse-kak-obrabatyvat-big-data-v-800-raz-bystree)
+
+- Kaspersky:
+  - [Сайт компании](https://kaspersky.ru)
+  - [Используют как часть продукта KUMA в качестве хранилища данных](https://www.anti-malware.ru/reviews/Kaspersky-Unified-Monitoring-and-Analysis-Platform#part3)
+
+- Yandex.cloud, SberCloud etc
+  - У всех облачных провацйдров есть SaaS :)
